@@ -49,7 +49,7 @@ nav{
     color: #808080;
     line-height: 30px;
     text-decoration: none;
-    font-family: 'VT323', ;
+    font-family: 'VT323' ;
   } 
   a:hover {
     /*color: #FD864D;*/
@@ -60,6 +60,18 @@ nav{
   }
   
 }
+
+
+
+p {
+    color: #808080;
+    line-height: 25px;
+    text-decoration: none;
+    text-align: justify;
+    font-family: 'VT323', ;
+}
+
+// HR //////////////////
 
 .orange, .blue {
   height: 1px; border: 0; 
@@ -76,16 +88,18 @@ nav{
   color: #12B0A3;
 }
 
-
+///////////////////////
 
 .single-title {
   line-height: 0em;
   margin-bottom: 30px
 }
-// CONTATTI
+
+
+// CONTATTI /////////////
 
 .contact-links {
   font-size: 1.1em;
 }
-
+///////////////////////
 
